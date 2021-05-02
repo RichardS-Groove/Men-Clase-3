@@ -31,4 +31,16 @@
         cli.BackColor = Color.Red
         cli.ShowDialog()
     End Sub
+
+    Private Sub ListadosToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ListadosToolStripMenuItem.Click
+        Dim lst As New Listados
+        lst.BackColor = Color.Blue
+        lst.ShowDialog()
+    End Sub
+
+    Private Sub ProveedoresToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ProveedoresToolStripMenuItem.Click
+        Dim prv As New Proveedores
+        prv.BackColor = Color.Green
+        prv.ShowDialog()
+    End Sub
 End Class
