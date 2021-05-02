@@ -1,0 +1,15 @@
+C:\Users\richa\Downloads\Menú\bin\Debug\Menú.exe.config
+C:\Users\richa\Downloads\Menú\bin\Debug\Menú.exe
+C:\Users\richa\Downloads\Menú\bin\Debug\Menú.pdb
+C:\Users\richa\Downloads\Menú\bin\Debug\Menú.xml
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.vbprojAssemblyReference.cache
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.Menú.resources
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.Resources.resources
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.vbproj.GenerateResource.cache
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.vbproj.CoreCompileInputs.cache
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.exe
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.xml
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.pdb
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.Clientes.resources
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.Listados.resources
+C:\Users\richa\Downloads\Menú\obj\Debug\Menú.Proveedores.resources
